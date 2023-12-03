@@ -12,6 +12,7 @@ namespace ECommerce.Api.Products.Tests
 {
     public class ProductsServiceTest
     {
+        
         [Fact]
         public async Task GetProductsReturnsAllProducts()
         {

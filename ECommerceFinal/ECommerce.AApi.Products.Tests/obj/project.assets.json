@@ -4478,11 +4478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\ECommerce.AApi.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\ECommerce.AApi.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
       "projectName": "ECommerce.Api.Products.Tests",
-      "projectPath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\ECommerce.AApi.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
+      "projectPath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\ECommerce.AApi.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
       "packagesPath": "C:\\Users\\alyca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\ECommerce.AApi.Products.Tests\\obj\\",
+      "outputPath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\ECommerce.AApi.Products.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4503,8 +4503,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj": {
-              "projectPath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj"
+            "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj": {
+              "projectPath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Products\\Ecommerce.Api.Products.csproj"
             }
           }
         }

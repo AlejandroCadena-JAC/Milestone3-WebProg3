@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zf8uf1jdXnbhoZx27dwduFSTLgw0C/1NY/4qHmvkstMkK71Z7jXDoCMtt1uG4GhnvwJdmbdppjHjW8lk9BEZog==",
+  "dgSpecHash": "xacKmbRPptcl1BBdkuDQUScF5L1f815lvu9SLzoaVJXRCxdsJEAXeZPEeOCc8nBxNEALI1hbE1UeTY4Z9TsBqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Orders\\Ecommerce.Api.Orders.csproj",
+  "projectFilePath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Orders\\Ecommerce.Api.Orders.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alyca\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\alyca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

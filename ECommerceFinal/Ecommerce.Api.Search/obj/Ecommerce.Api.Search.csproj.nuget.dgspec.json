@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {}
+    "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {
+    "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+        "projectUniqueName": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
         "projectName": "Ecommerce.Api.Search",
-        "projectPath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+        "projectPath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
         "packagesPath": "C:\\Users\\alyca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Search\\obj\\",
+        "outputPath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

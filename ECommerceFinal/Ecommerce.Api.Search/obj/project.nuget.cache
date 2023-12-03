@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NQOxzxQGlqWAEbvo/yHYwoi1AF/dOj3ojoGw2faUBoJVfXKE71mI3yL+8Q0xr1DXYds5yDCv3cDjyylUQIxGUw==",
+  "dgSpecHash": "C//Z7yA1Csgz+BZc1Po8fkgC9dn5Tzcbl5He00xGQ/YAPEdLmCy4QNp5Cgr7J7W+HHrlo4XT2FSp3DqGBARQlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alyca\\source\\repos\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+  "projectFilePath": "C:\\Users\\alyca\\source\\repos\\Milestone3-WebProg3\\ECommerceFinal\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alyca\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.31\\microsoft.extensions.configuration.3.1.31.nupkg.sha512",
     "C:\\Users\\alyca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.31\\microsoft.extensions.configuration.abstractions.3.1.31.nupkg.sha512",
